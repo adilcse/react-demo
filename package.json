@@ -10,7 +10,7 @@
     "@testing-library/user-event": "^7.2.1",
     "aws-amplify": "^3.0.13",
     "bootstrap": "^4.5.0",
-    "markdown-to-jsx": "^6.11.4",
+    "markdown-to-jsx": "^7.4.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-s3-uploader": "^4.9.3",
